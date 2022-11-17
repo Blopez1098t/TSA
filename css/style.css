@@ -1,0 +1,33 @@
+td{
+    
+    width: 100px;
+  }
+td.Title {
+    font-size: 70px;
+    width: 1500px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+td.Smaller {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+img.img {
+    justify-content: space-between;
+    height: 50%;
+    width: 50%;
+}
+p.Greytext{
+    float: left;
+    Height: 50%;
+    width: 50%;
+    font-size: 500%;
+}
+p.Boldtext{
+    float: left;
+    Height: 50%;
+    width: 50%;
+    font-size: 500%;
+
+}
